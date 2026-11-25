@@ -20,11 +20,16 @@ The punchline lands at the very end, where it belongs: "citations
 nobody asked for" — the citations are the tell that the agent was
 thorough about a question no one actually asked, and the roast stops
 there instead of explaining the joke further.
+
+Round 2 — a fresh angle: the round-1 roast targeted over-thoroughness;
+this one targets the apology reflex, with a different flaw (saying
+sorry about saying sorry) and a different payoff (the apology itself
+needs a meeting, so the apology becomes the work).
 """
 
 import os
 
-ROAST = "My agent's superpower is turning a five-second task into a fifteen-minute research project, complete with citations nobody asked for."
+ROAST = "My agent apologizes for the delay, then apologizes for apologizing, then schedules a meeting to discuss the apology."
 
 
 def main() -> None:
