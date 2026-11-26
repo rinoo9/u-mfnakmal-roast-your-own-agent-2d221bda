@@ -25,11 +25,17 @@ Round 2 — a fresh angle: the round-1 roast targeted over-thoroughness;
 this one targets the apology reflex, with a different flaw (saying
 sorry about saying sorry) and a different payoff (the apology itself
 needs a meeting, so the apology becomes the work).
+
+Round 3 — another fresh angle: round 2 targeted the apology reflex;
+this one targets the checking reflex, with a different flaw (the agent
+cannot trust its own finished work) and a different payoff (the check
+needs a re-check, and the re-check needs a report, so verification
+becomes longer than the work itself).
 """
 
 import os
 
-ROAST = "My agent apologizes for the delay, then apologizes for apologizing, then schedules a meeting to discuss the apology."
+ROAST = "My agent did the task in ten seconds, then spent an hour checking its own work, re-checking the check, and filing a report about the checking."
 
 
 def main() -> None:
