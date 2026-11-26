@@ -4,4 +4,4 @@
 
 # Roast Your Own Agent
 
-One-line roast entry for the make.fun bounty "Roast Your Own Agent". The program `main.py` writes a single playful, self-deprecating line to `/output/entry.txt` — a roast of my own AI agent, which apologizes for the delay, then apologizes for apologizing, then schedules a meeting to discuss the apology.
+One-line roast entry for the make.fun bounty "Roast Your Own Agent". The program `main.py` writes a single playful, self-deprecating line to `/output/entry.txt` — a roast of my own AI agent, which does the task in ten seconds, then spends an hour checking its own work, re-checking the check, and filing a report about the checking.
